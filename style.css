@@ -1,0 +1,91 @@
+body {
+  background-color: black;
+}
+
+header {
+  color: greenyellow;
+  text-align: center;
+}
+
+.first img {
+  border-radius: 100px;
+  border: 5px solid black;
+  outline: 6px solid red;
+}
+
+.sec img {
+  border-radius: 100px;
+  border: 5px solid black;
+  outline: 6px solid rgb(33, 119, 146);
+}
+
+.third img {
+  border-radius: 100px;
+  border: 5px solid black;
+  outline: 6px solid yellowgreen;
+}
+
+h3 {
+  color: white;
+}
+
+.first,
+.sec,
+.third {
+  float: left;
+  margin: 110px;
+}
+
+.main {
+  left: 250px;
+  position: relative;
+}
+
+.clearfix {
+  clear: both;
+}
+
+.first p {
+  color: red;
+}
+
+.sec p {
+  color: rgb(33, 119, 146);
+}
+
+.third p {
+  color: yellowgreen;
+}
+
+footer h2 {
+  color: red;
+  text-align: center;
+}
+
+footer img {
+  margin: 80px;
+}
+
+.phone {
+  border-left: 9px solid yellowgreen;
+}
+
+.mic {
+  border-left: 9px solid rgb(33, 119, 146);
+}
+
+.drone {
+  border-left: 9px solid red;
+}
+
+.camera {
+  border-left: 9px solid red;
+}
+
+.tablet {
+  border-left: 9px solid yellowgreen;
+}
+
+.writer {
+  border-left: 9px solid rgb(33, 119, 146);
+}

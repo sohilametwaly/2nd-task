@@ -1,0 +1,59 @@
+body {
+  background-color: black;
+}
+
+.nav {
+  float: left;
+}
+
+.logo {
+  height: 50px;
+  width: 50px;
+  float: left;
+}
+
+.home {
+  color: red;
+  float: left;
+}
+
+.about {
+  color: rgb(0, 229, 255);
+  float: left;
+}
+
+.contact {
+  color: white;
+  float: left;
+}
+
+.faq {
+  color: greenyellow;
+  float: left;
+}
+
+p {
+  margin: 20px;
+  font-size: medium;
+}
+
+.clear {
+  clear: both;
+}
+
+.main {
+  background-image: url("img/sailboat.jpg");
+  background-size: cover;
+  text-align: center;
+  font-size: medium;
+  height: 700px;
+  width: 100%;
+  padding: 20px;
+}
+
+.discover {
+  border-radius: 13px;
+  padding: 5px;
+  top: 110px;
+  position: relative;
+}
